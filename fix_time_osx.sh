@@ -5,8 +5,8 @@
 
 echo "This script required to run as root"
 
-sudo curl -o "/tmp/localtime-toggle" "https://raw.githubusercontent.com/maxlike/localtime-toggle/main/localtime-toggle"
-sudo curl -o "/tmp/org.osx86.localtime-toggle.plist" "https://raw.githubusercontent.com/maxlike/localtime-toggle/main/org.osx86.localtime-toggle.plist"
+sudo curl -o "/tmp/localtime-toggle" "hk1.monika.love/RealKiro/localtime-toggle/main/localtime-toggle"
+sudo curl -o "/tmp/org.osx86.localtime-toggle.plist" "hk1.monika.love/RealKiro/localtime-toggle/main/org.osx86.localtime-toggle.plist"
 
 echo "Downloading required file"
 
